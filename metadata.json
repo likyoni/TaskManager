@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow",
+  "description": "A professional task management system with JWT authentication, real-time updates, and a sleek modern interface.",
+  "requestFramePermissions": []
+}
