@@ -196,7 +196,7 @@ export default function Home() {
           </p>
           <div className="flex items-center gap-6 text-sm font-semibold text-stone-400">
             <a href="#" className="hover:text-stone-900 transition-colors">Twitter</a>
-            <a href="#" className="hover:text-stone-900 transition-colors">GitHub</a>
+            <a href="https://github.com/likyoni/" className="hover:text-stone-900 transition-colors">GitHub</a>
             <a href="#" className="hover:text-stone-900 transition-colors">Privacy</a>
           </div>
         </div>
